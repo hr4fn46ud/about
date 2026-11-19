@@ -1,10 +1,10 @@
 ### Hello there! 👋
-I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security and Free Software. I prefer  and Linux at home and wish I could use these at work, too. I am a convinced -Fanboy, and, besides, love Metal of all kind, Travelling, Photographing, Reading and Blogging.
+I am a Dad and a restless spirit. A Cloud-Addict with a strong focus on Security and Free Software. I prefer  and Linux at home and wish I could use these at work, too. I am a convinced -Fanboy, and, besides, love Metal of all kind, Travelling, Photographing, Reading and Blogging.
 
 - 🔭 Always working on articles and in-depths that are related to the OS above and all Cloud-driven solutions with privacy in mind
 - 🌱 Always learning, trying to get the big whole
 - 🪂 Often disjointed but easy to thrill when it comes to discover something new
-- Currently exploring the Fediverse with <a href="https://runespaces.com/@hrafnagud">GoToSocial</a>, <a href="https://photos.fedi.one/@oliver">Vernissage</a> and <a href="https://loops.fedi.one/@oliver">Loops</a>
+- Currently exploring the Fediverse with <a href="https://niflheim.social/@hrafnagud">Mastodon</a>, <a href="https://photos.fedi.one/@oliver">Vernissage</a> and <a href="https://loops.fedi.one/@oliver">Loops</a>
 - Find my <a href="https://keyoxide.org/A93687BCEACFB686F75518ED1E68ED76777545CA">Keyoxide</a>-profile & key <a href="https://keyoxide.org/A93687BCEACFB686F75518ED1E68ED76777545CA">here</a>!
 
 ## Support me
